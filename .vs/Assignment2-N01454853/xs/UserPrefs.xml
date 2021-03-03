@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{6E9AF863-C175-4293-814D-B1E09F57F262}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="zxczx/Controllers/J1Controller.cs">
+    <Files>
+      <File FileName="zxczx/Controllers/J2Controller.cs" Line="26" Column="102" />
+      <File FileName="zxczx/Controllers/J1Controller.cs" Line="57" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Assignment2-N01454853" expanded="True" selected="True">
+            <Node name="zxczx" expanded="True">
+              <Node name="Controllers" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Assignment2-N01454853 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
